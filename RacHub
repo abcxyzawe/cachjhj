@@ -1,0 +1,11 @@
+if game.PlaceId == 10321372166 or game.PlaceId == 6284583030 then -- pet sim x
+  loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/ae90a6e424d2ef0d721d1a795c0e11fc.lua"))()
+end
+
+if game.PlaceId == 4490140733 then
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/9c6614f58b558635e3f816a48c1b557a.lua"))()
+end
+
+if game.PlaceId == 3237168 then
+  loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/94501ab895607e9feefc18d6c0f79f4b.lua"))()
+end
